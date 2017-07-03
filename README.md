@@ -15,6 +15,7 @@ Out of the box
 -------------
 Clone this project and run `bin/setup` The setup will throw errors if dependencies are missing. Just install them and run again. If you'd like to rename this application, just use your IDE to find all occurrences 'rails_react_boilerplate' and 'RailsReactBoilerplate' and give a new name - all before your run `bin/setup`
 
+
 -------------
 
 DIY
@@ -169,8 +170,14 @@ Check out other files in the app/javascript directory to find a home page layout
 
 ----------
 
-Just hop on to http://localhost:3000
+Just hop on to `http://localhost:3000`
 
+run servers with `bin/server`
+
+-----------
+
+More:
+This + [Ant Design framework](https://ant.design) boilerplate - [link](https://github.com/kbravi/rails_react_antd_boilerplate)
 
 ### LICENSE
 MIT
